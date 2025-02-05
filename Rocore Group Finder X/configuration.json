@@ -1,0 +1,8 @@
+{
+    "enable_webhook": true,
+    "webhook_url": "https://discord.com/api/webhooks/1332350320642359357/2L2lIxeHU8v506cQFNq8lrzDDJHzi5H0ouldjoBv8oG_nR_vcBefOMxAUygA_kxkoqDI",
+    "threads": 10,
+    "group_id_range": [500000, 99999999],
+    "retry_delay": 5,
+    "log_hits": true
+}
